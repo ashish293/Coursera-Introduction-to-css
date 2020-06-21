@@ -1,0 +1,24 @@
+img{
+	display:none;
+}
+header{
+	background-color:#b7faaf;
+}
+h1{
+	color:#ed9c32;
+	text-align:center;
+	text-transform:uppercase;
+	font-family:Arial, Sans-serif;
+}
+section{
+	background-color:#d8cced;
+}
+h2{
+  color:#402d1b;
+  text-transform:uppercase;
+  font-family:Saris, Arial;
+}
+a{
+	color:#9e3602;
+	background-color:#faf9e1;
+}
